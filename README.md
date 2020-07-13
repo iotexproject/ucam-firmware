@@ -1,4 +1,4 @@
-# ucam-firmware
+# Ucam Firmware
 
 This repo contains releases of Ucam firmware. Please check them out here. 
 
